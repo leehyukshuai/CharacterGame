@@ -1,5 +1,7 @@
 # C++控制台字符游戏 Terminal Character Game by C++
 
+![image](https://user-images.githubusercontent.com/95012398/183458046-b446ae80-b508-470f-b776-2ed447d2a7e0.png)
+
 ## Description
 一个简单的控制台字符游戏，你可以自行修改代码以创建新的角色以及修改控制方式。
 A simple terminal character game using C++. And you can modify it to make your own game.
